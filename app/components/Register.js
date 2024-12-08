@@ -39,7 +39,7 @@ const Register = () => {
           <h2 className="text-4xl font-semibold text-center mb-8">
             Register
             <Image
-              src="/images/Matrimony.png"
+              src="./images/Matrimony.png"
               alt="Description of the image"
               width={500}
               height={300}
