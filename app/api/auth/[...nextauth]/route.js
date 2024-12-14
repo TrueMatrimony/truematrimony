@@ -23,7 +23,9 @@ export const authOptions = {
             return null;
           }
           return user;
-        } catch (error) {}
+        } catch (error) {
+          
+        }
       },
     }),
   ],
